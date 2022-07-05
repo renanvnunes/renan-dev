@@ -24,16 +24,13 @@
 		</div>
 
 		<div class="address">
-			<div>Maringá-PR / Indianópolis-PR - renan.dev@hotmail.com</div>
+			<div>Maringá-PR / Indianópolis-PR</div>
+			<div class="email">renan.dev@hotmail.com</div>
 			<div> <i class="el-icon-mobile-phone"></i> <b>44 9 9156-9900</b></div>
 		</div>
 
 		<div class="menu">
-			<ul>
-				<li><nuxt-link to="/perfil">PERFIL</nuxt-link></li>
-				<li><nuxt-link to="/tecnologias">TECNOLOGIAS</nuxt-link></li>
-				<li><nuxt-link to="/experiencias">EXPERIÊNCIAS</nuxt-link></li>
-			</ul>
+			<MenuItens />
 		</div>
 
 	</div>

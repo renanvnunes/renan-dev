@@ -8,7 +8,7 @@
 			<div class="content shadow-sm bio">
 				<div class="title-tec tecs-color">FRONTEND</div>
 
-				<div class="icons-flex">
+				<div class="icons-float">
 					<div class="box-icon">
 						<i class="devicon-html5-plain colored icon-size"></i>
 						<div style="color: #e54d26;">HTML</div>
@@ -42,16 +42,18 @@
 						<div style="color: #c7b20a;">javascript</div>
 					</div>
 					<div class="box-icon">
-						<i class="devicon-handlebars-plain icon-size colored"></i>
-						<div style="color: #000;">handlebars</div>
+						<i style="color: #999;" class="devicon-handlebars-plain icon-size colored"></i>
+						<div style="color: #999;">handlebars</div>
 					</div>
+
 				</div>
+				<div class="clear-fix"></div>
 			</div>
 
 			<div class="content shadow-sm bio" style="margin-top: 30px;">
 				<div class="title-tec tecs-color">BACKEND</div>
 
-				<div class="icons-flex">
+				<div class="icons-float">
 					<div class="box-icon">
 						<i class="devicon-php-plain colored icon-size"></i>
 						<div style="color: #6181b6;">php</div>
@@ -68,8 +70,8 @@
 					</div>
 
 					<div class="box-icon">
-						<i class="devicon-express-original colored icon-size"></i>
-						<div style="color: #444;">Express</div>
+						<i style="color: #999;" class="devicon-express-original colored icon-size"></i>
+						<div style="color: #999;">Express</div>
 					</div>
 
 					<div class="box-icon">
@@ -78,12 +80,13 @@
 					</div>
 
 				</div>
+				<div class="clear-fix"></div>
 			</div>
 
 			<div class="content shadow-sm bio" style="margin-top: 30px;">
 				<div class="title-tec tecs-color">BANCO DE DADOS</div>
 
-				<div class="icons-flex">
+				<div class="icons-float">
 					<div class="box-icon">
 						<i class="devicon-mongodb-plain colored icon-size"></i>
 						<div style="color: #4faa41;">MongoDB</div>
@@ -110,12 +113,13 @@
 					</div>
 
 				</div>
+				<div class="clear-fix"></div>
 			</div>
 
 			<div class="content shadow-sm bio" style="margin-top: 30px;">
 				<div class="title-tec tecs-color">DEVELOPMENT, DEVOPS, DEPLOY, CODE VERSION...</div>
 
-				<div class="icons-flex">
+				<div class="icons-float">
 					<div class="box-icon">
 						<i class="devicon-debian-plain colored icon-size"></i>
 						<div style="color: #a80030;">debian</div>
@@ -152,8 +156,8 @@
 					</div>
 					
 					<div class="box-icon">
-						<i class="devicon-github-plain colored icon-size"></i>
-						<div style="color: #000;">github</div>
+						<i style="color: #999;" class="devicon-github-plain colored icon-size"></i>
+						<div style="color: #999;">github</div>
 					</div>
 					
 					<div class="box-icon">
@@ -172,17 +176,18 @@
 					</div>
 
 					<div class="box-icon">
-						<i class="devicon-composer-plain colored icon-size"></i>
-						<div style="color: #000;">composer</div>
+						<i style="color: #999;" class="devicon-composer-plain colored icon-size"></i>
+						<div style="color: #999;">composer</div>
 					</div>
 
 				</div>
+				<div class="clear-fix"></div>
 			</div>
 
 			<div class="content shadow-sm bio" style="margin-top: 30px;">
 				<div class="title-tec tecs-color">BUSCANDO CONHECIMENTO</div>
 
-				<div class="icons-flex">
+				<div class="icons-float">
 					<div class="box-icon">
 						<i class="devicon-dotnetcore-plain colored icon-size"></i>
 						<div style="color: #623697;">dotnetcore</div>
@@ -194,8 +199,8 @@
 					</div>
 
 					<div class="box-icon">
-						<i class="devicon-nextjs-original colored icon-size"></i>
-						<div style="color: #000;">Nextjs</div>
+						<i style="color: #999;" class="devicon-nextjs-original colored icon-size"></i>
+						<div style="color: #999;">Nextjs</div>
 					</div>
 
 					<div class="box-icon">
@@ -204,8 +209,8 @@
 					</div>
 
 					<div class="box-icon">
-						<i class="devicon-flask-original colored icon-size"></i>
-						<div style="color: #000;">flask</div>
+						<i style="color: #999;" class="devicon-flask-original colored icon-size"></i>
+						<div style="color: #999;">flask</div>
 					</div>
 
 					<div class="box-icon">
@@ -214,9 +219,9 @@
 					</div>
 
 				</div>
+				<div class="clear-fix"></div>
 			</div>
 
-			
 			<nuxt-link class="back" to="/">Voltar</nuxt-link>
 		</div>
 

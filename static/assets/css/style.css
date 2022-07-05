@@ -2,7 +2,6 @@ body {
 	font-family: "Saira Extra Condensed"!important;
 	color: rgb(116, 116, 116);
 	background-color: rgb(18, 18, 18);	
-	/* background-color: rgb(230, 230, 230);	 */
 	color: rgb(199, 199, 199);
 }
 a{
@@ -19,7 +18,6 @@ a{
 	font-size: 80px;
 	line-height: 0px;
 	color: rgb(199, 199, 199);
-	/* color: #000; */
 	letter-spacing: -4px;
 }
 .header .title b{
@@ -53,6 +51,10 @@ a{
 	color: rgb(116, 116, 116)!important;
 	font-size: 30px;
 }
+.address .email{
+	line-height: 10px;
+	margin-bottom: 20px;;
+}
 .menu{
 	text-align: center;
 	width: 300px;
@@ -60,7 +62,8 @@ a{
 	margin-top: 40px;
 }
 .menu ul{
-	margin: 4px;
+	margin: 0px;
+	padding: 0px;
 }
 .menu ul li{
 	list-style: none;
@@ -85,28 +88,30 @@ a{
 	margin: 0 auto;
 	font-size: 18px;
 	background-color: rgb(25, 25, 25);	
-	/* background-color: rgba(255,255,255, 1); */
-	width: 480px;
+	width: 350px;
 	padding: 5px;;
 	border-radius: 5px;
 	font-size: 14px;;
 }
 .projeto a{
 	color: #999;	
-	/* color: #000;	 */
 }
 .projeto .vue{
-	color: #3FB17F;
+	color: #29d48a;
 }
 .projeto .nuxt{
-	color: #0F8371;
+	color: #06b49a;
 }
 .projeto .vscode{
-	color: #0380C0;
+	color: #04a0ee;
 }
 .projeto .ubuntu{
-	color: #7D2943;
+	color: #e61b5b;
 }
+.projeto .vercel, .projeto .github{
+	color: #eee;
+}
+
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.5s;
@@ -171,17 +176,81 @@ a{
 }
 .header-int .flex{
 	display: flex;
+	justify-content: space-between;
 	margin-top: 30px;
 }
 .header-int .flex .title{
 	margin-top: 5px;
-	margin-left: 10px;;
 	font-size: 25px;
 	color: #f96854;
+	text-align: left;
 }
-.header-int img{
+.header-int .image{
+	width: 250px;
+}
+.header-int .image img, .flex-mobile img{
+	float: left;
 	border-radius: 50%;
 	width: 50px;
+	margin-right: 10px;
+}
+.flex-mobile {
+	padding-top: 20px;
+	font-size: 20px;
+	display: none;
+}
+.flex-mobile b{
+	margin-top: 11px;
+	font-size: block;
+	float: left;
+}
+.header-int .menu-int {
+	width: 280px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.header-int .menu-int ul{
+	margin: 0px;
+	padding: 0px;
+}
+.header-int .menu-int ul li{
+	list-style: none;
+}
+.header-int .menu-int ul li a{
+	float: right;
+	font-size: 20px;
+	margin-right: 10px;
+	color: #999;
+}
+@media(max-width: 991px){
+	body{
+		padding: 20px!important;
+	}
+	.header-int .menu-int {
+		display: none!important;
+	}
+	.pages{
+		width: 100%!important;
+	}
+	.header-int .flex{
+		display: none!important;
+	}
+	.projeto{
+		width: 100%;
+	}
+	.header-int{
+		width: 100%;;
+	}
+	.flex-mobile{
+		display: block;
+	}
+	.box-icon{
+		width: 70px!important;
+	}
+	.icons-float{
+		display: flex;
+		flex-wrap: wrap;
+	}
 }
 
 .pages{
@@ -199,7 +268,6 @@ a{
 	display: block;
 }
 .pages .content{
-	/* background-color: #fff; */
 	background-color: rgb(28, 28, 28);	
 	border-radius: 5px;
 	padding: 20px;
@@ -213,7 +281,6 @@ a{
 	color: #6D8F21!important;
 }
 .box-icon{
-	/* background-color: #f5f5f5; */
 	background-color: rgb(20, 20, 20);	
 	padding: 5px;
 	text-align: center;
@@ -222,15 +289,15 @@ a{
 	margin-right: 10px;
 	border-radius: 5px;
 	margin-bottom: 13px;
+	float: left;
 }
 .box-icon .icon-size{
 	font-size: 40px;
 	margin-top: 5px;
 }
-.icons-flex{
-	display: flex;
-	flex-wrap: wrap;
-}
 .box-icon div{
 	text-transform: uppercase;
+}
+.clear-fix{
+	clear: both;
 }
