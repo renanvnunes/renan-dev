@@ -1,7 +1,9 @@
 body {
 	font-family: "Saira Extra Condensed"!important;
 	color: rgb(116, 116, 116);
-	background-color: rgb(230, 230, 230);	
+	background-color: rgb(18, 18, 18);	
+	/* background-color: rgb(230, 230, 230);	 */
+	color: rgb(199, 199, 199);
 }
 a{
 	text-decoration: none;
@@ -16,7 +18,8 @@ a{
 .header .title{
 	font-size: 80px;
 	line-height: 0px;
-	color: #000;
+	color: rgb(199, 199, 199);
+	/* color: #000; */
 	letter-spacing: -4px;
 }
 .header .title b{
@@ -47,7 +50,8 @@ a{
 	font-size: 20px;
 }
 .address b, .address i{
-	color: #000;
+	color: rgb(116, 116, 116)!important;
+	font-size: 30px;
 }
 .menu{
 	text-align: center;
@@ -80,14 +84,16 @@ a{
 	text-align: center;
 	margin: 0 auto;
 	font-size: 18px;
-	background-color: rgba(255,255,255, 1);
-	width: 380px;
+	background-color: rgb(25, 25, 25);	
+	/* background-color: rgba(255,255,255, 1); */
+	width: 480px;
 	padding: 5px;;
 	border-radius: 5px;
 	font-size: 14px;;
 }
 .projeto a{
-	color: #000;	
+	color: #999;	
+	/* color: #000;	 */
 }
 .projeto .vue{
 	color: #3FB17F;
@@ -193,7 +199,8 @@ a{
 	display: block;
 }
 .pages .content{
-	background-color: #fff;
+	/* background-color: #fff; */
+	background-color: rgb(28, 28, 28);	
 	border-radius: 5px;
 	padding: 20px;
 }
@@ -206,7 +213,8 @@ a{
 	color: #6D8F21!important;
 }
 .box-icon{
-	background-color: #f5f5f5;
+	/* background-color: #f5f5f5; */
+	background-color: rgb(20, 20, 20);	
 	padding: 5px;
 	text-align: center;
 	padding-top: 10px!important;
