@@ -1,0 +1,293 @@
+[
+	{
+		"empresa": "ADX Full Commerce",
+		"cargo": "Programador Sênior",
+		"periodo": "2021 a atual",
+		"tecnologias": [
+			{
+				"icone" : "devicon-nodejs-plain",
+				"nome": "NODEJS",
+				"cor": "#83cd29"
+			},
+			{
+				"icone" : "devicon-adonisjs-plain",
+				"nome": "adonis",
+				"cor": "#5a45ff"
+			},
+			{
+				"icone" : "devicon-mongodb-plain",
+				"nome" : "MONGODB",
+				"cor": "#4faa41"
+			},
+			{
+				"icone" : "devicon-redis-plain",
+				"nome" : "REDIS",
+				"cor": "#d82c20"
+			},
+			{
+				"icone" : "devicon-vuejs-plain",
+				"nome" : "vuejs",
+				"cor": "#41b883"
+			},
+			{
+				"icone" : "devicon-nuxtjs-plain",
+				"nome" : "nuxt",
+				"cor": "#00c48d"
+			},
+			{
+				"icone" : "devicon-bulma-plain",
+				"nome" : "bulma",
+				"cor": "#00d1b2"
+			},
+			{
+				"icone" : "devicon-git-plain",
+				"nome" : "GIT",
+				"cor": "#f34f29"
+			}
+		],
+		"resumo": "Desenvolvimento atual de plataforma de e-commerce do zero, utilizando NodeJS e AdinisJS no Backend.<br />Frontend Vuejs, Nuxt e Bulma. Banco de dados com Mongodb e Redis. Deploy sendo realizado na Digital Ocean."
+	},
+	{
+		"empresa": "OH Soluções",
+		"cargo": "Programador Sênior",
+		"periodo": "2020 a 2021",
+		"tecnologias": [
+			{
+				"icone" : "devicon-php-plain",
+				"nome": "PHP",
+				"cor": "#6181b6"
+			},
+			{
+				"icone" : "devicon-mongodb-plain",
+				"nome" : "MONGODB",
+				"cor": "#4faa41"
+			},
+			{
+				"icone" : "devicon-mysql-plain",
+				"nome" : "MYSQL",
+				"cor": "#00618a"
+			},
+			{
+				"icone" : "devicon-vuejs-plain",
+				"nome" : "vuejs",
+				"cor": "#41b883"
+			},
+			{
+				"icone" : "devicon-bootstrap-plain",
+				"nome" : "Bootstrap",
+				"cor": "#59407f"
+			},
+			{
+				"icone" : "devicon-git-plain",
+				"nome" : "GIT",
+				"cor": "#f34f29"
+			}
+		],
+		"resumo": "Participação da criação do ERP Gerenciamais. Integrado com varios Marketplaces e com lojas Magento.<br />Integrado também com ERPs API SOL, Accion, Vetor Sistemas.<br /><br />O projeto esrito em PHP 8 + Mysql, com deploy em servidores cPanel. "
+	},
+	{
+		"empresa": "Nexme",
+		"cargo": "Programador Sênior",
+		"periodo": "2019 a 2021",
+		"tecnologias": [
+			{
+				"icone" : "devicon-php-plain",
+				"nome": "PHP",
+				"cor": "#6181b6"
+			},
+			{
+				"icone" : "devicon-laravel-plain",
+				"nome": "LARAVEL",
+				"cor": "#fd4f31"
+			},
+			{
+				"icone" : "devicon-mongodb-plain",
+				"nome" : "MONGODB",
+				"cor": "#4faa41"
+			},
+			{
+				"icone" : "devicon-mysql-plain",
+				"nome" : "MYSQL",
+				"cor": "#00618a"
+			},
+			{
+				"icone" : "devicon-vuejs-plain",
+				"nome" : "vuejs",
+				"cor": "#41b883"
+			},
+			{
+				"icone" : "devicon-azure-plain",
+				"nome" : "AZURE",
+				"cor": "#0089d6"
+			},
+			{
+				"icone" : "devicon-bootstrap-plain",
+				"nome" : "Bootstrap",
+				"cor": "#59407f"
+			},
+			{
+				"icone" : "devicon-git-plain",
+				"nome" : "GIT",
+				"cor": "#f34f29"
+			}
+		],
+		"resumo": "Criação de ERP próprio da empresa para integração com Mercado Livre e Shopee. Publicação e manutenção de anúncios com estoque integrado a fornecedores locais através de Cross-Docking.<br /><br />A integração com fornecedores foi feita utilizando XML e Json para integração com Mercado Livre e Shopee. O projeto roda na MS Azure com Linux OS.<br /><br />O projeto está escrito com Backend em PHP 7 + Laravel. Frontend Bootstap e Vuejs. Banco de dados Mysql e Mongodb.<br />Deploy inicialmente realizado em AWS, depois migrado para Azure."
+	},
+	{
+		"empresa": "LTX Design",
+		"cargo": "Programador Sênior",
+		"periodo": "2016 a 2017",
+		"tecnologias": [
+			{
+				"icone" : "devicon-php-plain",
+				"nome": "PHP",
+				"cor": "#6181b6"
+			},
+			{
+				"icone" : "devicon-mysql-plain",
+				"nome" : "MYSQL",
+				"cor": "#00618a"
+			},
+			{
+				"icone" : "devicon-html5-plain",
+				"nome" : "HTML",
+				"cor": "#e54d26"
+			},
+			{
+				"icone" : "devicon-css3-plain",
+				"nome" : "CSS",
+				"cor": "#3d8fc6"
+			},
+			{
+				"icone" : "devicon-jquery-plain",
+				"nome" : "jquery",
+				"cor": "#0769ad"
+			},
+			{
+				"icone" : "devicon-git-plain",
+				"nome" : "GIT",
+				"cor": "#f34f29"
+			},
+			{
+				"icone" : "devicon-bootstrap-plain",
+				"nome" : "Bootstrap",
+				"cor": "#59407f"
+			}
+		],
+		"resumo": "Criação de diversos sites e e-commerce - Deploy em servidores InMotion Hosting"
+	},
+	{
+		"empresa": "Agência Mega Peres",
+		"cargo": "Programador Sênior",
+		"periodo": "2015 a 2016",
+		"tecnologias": [
+			{
+				"icone" : "devicon-php-plain",
+				"nome": "PHP",
+				"cor": "#6181b6"
+			},
+			{
+				"icone" : "devicon-mysql-plain",
+				"nome" : "MYSQL",
+				"cor": "#00618a"
+			},
+			{
+				"icone" : "devicon-html5-plain",
+				"nome" : "HTML",
+				"cor": "#e54d26"
+			},
+			{
+				"icone" : "devicon-css3-plain",
+				"nome" : "CSS",
+				"cor": "#3d8fc6"
+			},
+			{
+				"icone" : "devicon-jquery-plain",
+				"nome" : "jquery",
+				"cor": "#0769ad"
+			},
+			{
+				"icone" : "devicon-git-plain",
+				"nome" : "GIT",
+				"cor": "#f34f29"
+			},
+			{
+				"icone" : "devicon-bootstrap-plain",
+				"nome" : "Bootstrap",
+				"cor": "#59407f"
+			}
+		],
+		"resumo": "Criação de diversos sites e e-commerce - Deploy em servidores Locaweb e Hostgator"
+	},
+	{
+		"empresa": "Webinga Soluções Web",
+		"cargo": "Programador Pleno",
+		"periodo": "2010 a 2015",
+		"tecnologias": [
+			{
+				"icone" : "devicon-php-plain",
+				"nome": "PHP",
+				"cor": "#6181b6"
+			},
+			{
+				"icone" : "devicon-mysql-plain",
+				"nome" : "MYSQL",
+				"cor": "#00618a"
+			},
+			{
+				"icone" : "devicon-html5-plain",
+				"nome" : "HTML",
+				"cor": "#e54d26"
+			},
+			{
+				"icone" : "devicon-css3-plain",
+				"nome" : "CSS",
+				"cor": "#3d8fc6"
+			},
+			{
+				"icone" : "devicon-jquery-plain",
+				"nome" : "jquery",
+				"cor": "#0769ad"
+			},
+			{
+				"icone" : "devicon-git-plain",
+				"nome" : "GIT",
+				"cor": "#f34f29"
+			},
+			{
+				"icone" : "devicon-bootstrap-plain",
+				"nome" : "Bootstrap",
+				"cor": "#59407f"
+			}
+		],
+		"resumo": "Criação de diversos sites e e-commerce com OpenCart - Deploy em servidores simples com CPanel"
+	},
+	{
+		"empresa": "Mega Peres",
+		"cargo": "Programador Júnior",
+		"periodo": "2007 a 2010",
+		"tecnologias": [
+			{
+				"icone" : "devicon-php-plain",
+				"nome": "PHP",
+				"cor": "#6181b6"
+			},
+			{
+				"icone" : "devicon-mysql-plain",
+				"nome" : "MYSQL",
+				"cor": "#00618a"
+			},
+			{
+				"icone" : "devicon-html5-plain",
+				"nome" : "HTML",
+				"cor": "#e54d26"
+			},
+			{
+				"icone" : "devicon-css3-plain",
+				"nome" : "CSS",
+				"cor": "#3d8fc6"
+			}
+		],
+		"resumo": "Criação de diversos sites - Deploy em servidores simples com FTP"
+	}
+]

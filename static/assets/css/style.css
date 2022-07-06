@@ -280,6 +280,12 @@ a{
 .tecs-color{
 	color: #6D8F21!important;
 }
+.exp-color{
+	color: #5a45ff!important;
+}
+.perf-color{
+	color: #a80030!important;
+}
 .box-icon{
 	background-color: rgb(20, 20, 20);	
 	padding: 5px;
@@ -291,7 +297,7 @@ a{
 	margin-bottom: 13px;
 	float: left;
 }
-.box-icon .icon-size{
+.icon-size{
 	font-size: 40px;
 	margin-top: 5px;
 }
@@ -300,4 +306,16 @@ a{
 }
 .clear-fix{
 	clear: both;
+}
+.experiencias .title{
+	text-transform: uppercase;
+	margin-top: 10px;
+	font-size: 24px;
+	color: #5a45ff;
+}
+.experiencias .outros{
+	font-size: 18px;
+}
+.experiencias{
+	margin-bottom: 20px;
 }

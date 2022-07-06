@@ -3,7 +3,7 @@
 	<div class="header">
 
 		<div class="grid-content text-center">
-			<nuxt-img src="/img/me.jpg" class="shadow-lg" />
+			<nuxt-img src="/assets/img/me.jpg" class="shadow-lg" />
 			<div class="title">RENAN <b>NUNES</b></div>
 		</div>
 	
