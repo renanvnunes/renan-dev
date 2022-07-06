@@ -45,6 +45,10 @@
 						<i style="color: #999;" class="devicon-handlebars-plain icon-size colored"></i>
 						<div style="color: #999;">handlebars</div>
 					</div>
+					<div class="box-icon">
+						<i class="devicon-jquery-plain icon-size colored"></i>
+						<div style="color: #0769ad;">jquery</div>
+					</div>
 
 				</div>
 				<div class="clear-fix"></div>

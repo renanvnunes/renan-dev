@@ -6,7 +6,7 @@
 
 		<div class="pages">
 			<div class="content shadow-sm bio">
-				Renan Nunes, 31 anos, casado com Danielle, pai do Samuel de 8 anos..
+				Renan Nunes, 31 anos, casado com Danielle, pai do Samuel de 8 anos.
 				<br />
 				Atuando em diversos projetos desde 2007. Em sua maioria, com foco em Backend.
 				<br />

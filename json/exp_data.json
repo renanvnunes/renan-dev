@@ -83,7 +83,7 @@
 				"cor": "#f34f29"
 			}
 		],
-		"resumo": "Participação da criação do ERP Gerenciamais. Integrado com varios Marketplaces e com lojas Magento.<br />Integrado também com ERPs API SOL, Accion, Vetor Sistemas.<br /><br />O projeto esrito em PHP 8 + Mysql, com deploy em servidores cPanel. "
+		"resumo": "Participação da criação do ERP Gerenciamais. Integrado com varios Marketplaces e com lojas Magento.<br />Integrado também com ERPs API SOL, Accion, Vetor Sistemas.<br /><br />O projeto escrito em PHP 8 + Mysql, com deploy em servidores cPanel. "
 	},
 	{
 		"empresa": "Nexme",
@@ -131,7 +131,7 @@
 				"cor": "#f34f29"
 			}
 		],
-		"resumo": "Criação de ERP próprio da empresa para integração com Mercado Livre e Shopee. Publicação e manutenção de anúncios com estoque integrado a fornecedores locais através de Cross-Docking.<br /><br />A integração com fornecedores foi feita utilizando XML e Json para integração com Mercado Livre e Shopee. O projeto roda na MS Azure com Linux OS.<br /><br />O projeto está escrito com Backend em PHP 7 + Laravel. Frontend Bootstap e Vuejs. Banco de dados Mysql e Mongodb.<br />Deploy inicialmente realizado em AWS, depois migrado para Azure."
+		"resumo": "Criação de ERP próprio da empresa para integração com Mercado Livre e Shopee. Publicação e manutenção de anúncios com estoque integrado a fornecedores locais através de Cross-Docking.<br /><br />A integração com fornecedores foi feita utilizando XML, e JSON para integração com Mercado Livre e Shopee. O projeto roda na MS Azure com Linux OS.<br /><br />O projeto está escrito com Backend em PHP 7 + Laravel. Frontend Bootstap e Vuejs. Banco de dados Mysql e Mongodb.<br />Deploy inicialmente realizado em AWS, depois migrado para Azure."
 	},
 	{
 		"empresa": "LTX Design",
@@ -260,7 +260,7 @@
 				"cor": "#59407f"
 			}
 		],
-		"resumo": "Criação de diversos sites e e-commerce com OpenCart - Deploy em servidores simples com CPanel"
+		"resumo": "Criação de diversos sites e e-commerce com OpenCart - Deploy em servidores simples com cPanel"
 	},
 	{
 		"empresa": "Mega Peres",
