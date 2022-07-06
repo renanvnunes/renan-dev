@@ -13,6 +13,7 @@
 				<br />
 				Busco sempre evoluir, aprender novas técnicas e novas linguagens, focando sempre em agilidade e performance no desenvolvimento. 
 				<br />
+				Em horas vagas faço Ethical Hacking, buscando vulnerabilidades em lojas virtuais e reportando para programas de <b>Bug Bounty</b>.
 			</div>
 			<nuxt-link class="back" to="/">Voltar</nuxt-link>
 		</div>
