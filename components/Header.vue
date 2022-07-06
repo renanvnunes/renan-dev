@@ -25,7 +25,7 @@
 
 		<div class="address">
 			<div>Maringá-PR / Indianópolis-PR</div>
-			<div class="email">renan.dev@hotmail.com</div>
+			<div class="email">contato@renandev.app</div>
 			<div> <i class="el-icon-mobile-phone"></i> <b>44 9 9156-9900</b></div>
 		</div>
 
